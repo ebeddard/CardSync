@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Card Storage</string>
+    
+    <string name="detail_balance">Balance</string>
+    <string name="detail_card_number">Card Number</string>
+    <string name="detail_security_number">Security Number</string>
+    <string name="detail_expiration_date">Expiration Date</string>
+    <string name="menu_back_desc">Back</string>
+    <string name="brand_string">Brand</string>
+    <string name="add_brand">Add Brand</string>
+    <string name="add_card">Add Card</string>
+</resources>
